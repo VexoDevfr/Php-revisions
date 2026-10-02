@@ -1,0 +1,20 @@
+# PhpStorm
+.idea/
+
+# macOS
+.DS_Store
+
+# Environnement / configuration locale
+.env
+.env.local
+
+# Dépendances Composer
+/vendor/
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Cache
+cache/
+tmp/
